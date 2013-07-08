@@ -6,6 +6,7 @@ def syntheruption(meany, stdevy):
         # output is a multidimensional array of:
         # min window, max window, mean, actual
         # time is in units from start time 0
+        # output gives eruptions and windows for one day (at least right now -- easy to change).
 
         # synthetic eruption values are random on a Normal distribution
 
